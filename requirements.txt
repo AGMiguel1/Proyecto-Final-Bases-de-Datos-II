@@ -1,0 +1,4 @@
+Flask
+certifi
+pymongo[srv]
+python-dotenv
